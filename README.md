@@ -1,4 +1,4 @@
-#Hi there, I'm Pranav Padmannavar! 👋
+# Hi there, I'm Pranav Padmannavar! 👋
 ## Data Scientist & Analyst | MS in Analytics @ University of Minnesota - Twin Cities
 <br/>
 
@@ -37,72 +37,29 @@ Built a hybrid movie recommendation system using NLP (TF-IDF) and Collaborative 
 
 
 
-🛠️ My Tech Stack
-Programming & Databases
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python"/>
-</a>
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/R-276DC3%3Fstyle%3Dfor-the-badge%26logo%3Dr%26logoColor%3Dwhite" alt="R"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-4169E1%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="PostgreSQL"/>
-</a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-47A248%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite" alt="MongoDB"/>
-</a>
-<a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/MATLAB-0076A8%3Fstyle%3Dfor-the-badge%26logo%3Dmathworks%26logoColor%3Dwhite" alt="MATLAB"/>
-</a>
-</p>
+## 🛠 My Tech Stack
 
-Data Science & Machine Learning
-<p align="left">
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-150458%3Fstyle%3Dfor-the-badge%26logo%3Dpandas%26logoColor%3Dwhite" alt="Pandas"/>
-</a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/NumPy-013243%3Fstyle%3Dfor-the-badge%26logo%3Dnumpy%26logoColor%3Dwhite" alt="NumPy"/>
-</a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/scikit--learn-F7931E%3Fstyle%3Dfor-the-badge%26logo%3Dscikit-learn%26logoColor%3Dwhite" alt="scikit-learn"/>
-</a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-</a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-</a>
-<a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Apache%2520Spark-E25A1C%3Fstyle%3Dfor-the-badge%26logo%3Dapache-spark%26logoColor%3Dwhite" alt="Apache Spark"/>
-</a>
-<a href="https://www.databricks.com/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Databricks-FF3621%3Fstyle%3Dfor-the-badge%26logo%3Ddatabricks%26logoColor%3Dwhite" alt="Databricks"/>
-</a>
-</p>
+### Programming & Databases
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white)
 
-BI, Visualization & Cloud
-<p align="left">
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Power%2520BI-F2C811%3Fstyle%3Dfor-the-badge%26logo%3Dpower-bi%26logoColor%3Dblack" alt="Power BI"/>
-</a>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tableau-E97627%3Fstyle%3Dfor-the-badge%26logo%3Dtableau%26logoColor%3Dwhite" alt="Tableau"/>
-</a>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Matplotlib-313131%3Fstyle%3Dfor-the-badge%26logo%3Dmatplotlib%26logoColor%3Dwhite" alt="Matplotlib"/>
-</a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Seaborn-313131%3Fstyle%3Dfor-the-badge%26logo%3Dseaborn%26logoColor%3Dwhite" alt="Seaborn"/>
-</a>
-<a href="https://streamlit.io/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Streamlit-FF4B4B%3Fstyle%3Dfor-the-badge%26logo%3Dstreamlit%26logoColor%3Dwhite" alt="Streamlit"/>
-</a>
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Microsoft%2520Azure-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoft-azure%26logoColor%3Dwhite" alt="Azure"/>
-</a>
-</p>
+### Data Science & Machine Learning
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+
+### BI, Visualization & Cloud
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-9A9A9A?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
