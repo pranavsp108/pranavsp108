@@ -1,5 +1,5 @@
 # Hi there, I'm Pranav Padmannavar! 👋
-## Data Scientist & Analyst | MS in Analytics @ University of Minnesota - Twin Cities
+## Data Scientist & Analyst | MS in Analytics @ University of Minnesota - Twin Cities | [LinkedIn](https://www.linkedin.com/in/pranavsp108/) | [Email](mailto:padma062@umn.edu)
 <br/>
 🚀 Open to Opportunities I'm actively seeking full-time roles in Data Science, Machine Learning, and NLP where I can apply my skills to solve real-world problems and gain more hands-on experience.
 <br/>
