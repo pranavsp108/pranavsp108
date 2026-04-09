@@ -1,6 +1,6 @@
 # Pranav Padmannavar
 ### MS in Analytics Candidate | Data Scientist | Machine Learning Engineer
-[LinkedIn](https://www.linkedin.com/in/pranavsp108/) | [padma062@umn.edu](mailto:padma062@umn.edu) | [GitHub](https://github.com/pranavsp108) | [Kaggle](https://www.kaggle.com/pranavsp108)
+[LinkedIn](https://www.linkedin.com/in/pranavsp108/) | [pranavsp108@gmail.com](mailto:pranavsp108@gmail.com) | [GitHub](https://github.com/pranavsp108) | [Kaggle](https://www.kaggle.com/pranavsp108)
 
 ---
 
