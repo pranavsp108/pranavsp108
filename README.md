@@ -4,9 +4,11 @@
 
 ---
 
-I am a Master of Science in Analytics candidate at the **University of Minnesota - Twin Cities** (GPA: 3.6/4.0), expecting to graduate in **May 2026**. My professional background includes 2.5 years of experience at Tata Consultancy Services, where I drove significant improvements in operational efficiency and reporting accuracy as a Data Analyst and System Analyst. I have a strong foundation in building end-to-end data solutions, from engineering automated ETL pipelines with Python and SQL to developing predictive models using Scikit-learn, XGBoost, and TensorFlow.
+I am a Master of Science in Analytics candidate at the **University of Minnesota - Twin Cities**, graduating in **May 2026**. Most recently, as a **Data Science and Optimization Consultant** at **Daikin Applied**, I engineered a predictive framework that **identified over $1.5M in annual manufacturing cost savings and reduced simulation runtimes by 90%**.
 
-I am actively seeking full-time opportunities in **Data Science**, **Machine Learning Engineering**, and **Natural Language Processing**, where I can apply my expertise in statistical modeling, big data technologies, and MLOps to solve complex, data-driven challenges.
+My professional background includes over 2.5 years at **Tata Consultancy Services** as a Consultant on data and optimization projects, where I automated mission-critical reporting for global retail operations and orchestrated large-scale cloud migrations. I specialize in building end-to-end solutions, from automated ETL pipelines to complex predictive models using Python, SQL, and MLOps frameworks.
+
+I am currently focused on full-time opportunities in **Data Science** and **Machine Learning Engineering**, specifically within **Predictive Modeling**, **Recommendation Systems**, and **Operations Research**.
 
 ### Key Areas of Expertise
 
@@ -14,6 +16,15 @@ I am actively seeking full-time opportunities in **Data Science**, **Machine Lea
 * **Data Engineering & Big Data:** Advanced SQL, Python, PySpark, Hadoop, Hive, Kafka, ETL Pipeline Development, Data Wrangling.
 * **Databases & Cloud:** PostgreSQL, MySQL, AWS (S3, EC2), Google Cloud Platform (GCP).
 * **Data Analysis & Visualization:** Pandas, NumPy, R, Tableau, Power BI, Matplotlib, Seaborn.
+
+* **Predictive Modeling & Optimization**
+![Scikit-Learn] ![XGBoost] ![SciPy] ![Causal Inference] ![TensorFlow]
+
+**Engineering & MLOps**
+![SQL] ![Polars] ![PySpark] ![Kafka] ![MLflow] ![Docker] ![GitHub Actions]
+
+**Databases & BI**
+![PostgreSQL] ![BigQuery] ![AWS] ![Tableau] ![Power BI]
 
 <br/>
 
