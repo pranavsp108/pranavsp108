@@ -26,11 +26,13 @@ I am currently focused on full-time opportunities in **Data Science** and **Mach
 * **Solution:** Engineered an automated pipeline using **Kafka** and **GitHub Actions** to ingest 26+ years of data into an S3 Data Lake. Developed a stacked **LSTM Neural Network** on **AWS EC2** with a "zero-touch" MLOps workflow for daily retraining.
 * **Impact:** Fully automated the end-to-end forecasting of 9 global market indices with real-time data ingestion and model monitoring.
 
-### **2. End-to-End Recommender System**
-**[GitHub Repo]**
-* **Problem:** Digital platforms often struggle with "information overload," leading to low user engagement and retention.
-* **Solution:** Engineered a robust **PySpark** ETL pipeline and trained a **Scikit-learn** collaborative filtering model. Containerized the model using **Docker** and deployed it as a **REST API on Azure** for real-time inference.
-* **Impact:** Successfully demonstrated a **25% increase in user engagement** metrics through personalized content delivery.
+## 2. Scalable Grocery Reorder Recommendation Engine
+
+[GitHub Repo](https://github.com/pranavsp108/instacart-reorder-recommendation)
+
+- **Problem:** Online grocery platforms need to predict repeat purchases, personalize baskets, and surface relevant cross-sell opportunities across millions of customer-product interactions.
+- **Solution:** Built a **PySpark + Databricks** recommendation pipeline on **30M+ Instacart order-product records**, engineering leakage-safe user, product, user-product, recency, and reorder-behavior features for next-basket prediction.
+- **Impact:** Trained **Spark ML Gradient-Boosted Trees** achieving **0.409 PR-AUC**, **~4x lift over random baseline**, and **58% Recall@10**; added **FP-Growth cross-sell rules** and customer segmentation for personalized retail strategies.
 
 ### **3. Demand Forecasting & Inventory Optimization**
 **[GitHub Repo]**
